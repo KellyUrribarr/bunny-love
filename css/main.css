@@ -1,4 +1,4 @@
-/*kelly*/
+/* empieza kelly*/
 .box{
 	background-color: #0881DE;
 }
@@ -12,9 +12,30 @@
 	width: 100%;
 }
 
-.box h4, p{
-	padding-left: 10px;
+.box h4{
+	width: 95%;
+	padding-left: 19px;
 	padding-right: 10px;
+	text-align: center;
+	font-family: 'Baloo Paaji';
+	font-size: 20px;
+	color:#F21C1C;
+}
+
+.box .numero{
+	padding-left: 21px;
+	padding-right: 10px;
+	font-family: 'Baloo Paaji';
+	font-size: 18px;
+}
+
+
+.box p{
+	width: 95%;
+	padding-left: 19px;
+	padding-bottom: 10px;
+	font-family: 'Prompt', sans-serif; 
+	font-size: 16px;
 }
 
 .box iframe{
@@ -27,6 +48,7 @@
 }
 
 .box input{
+	width: 368px;
 	padding: 15px 30px;
 	margin: 5%;
 	border-radius: 5px;
@@ -53,14 +75,14 @@
 }
 
 .box .text p{
-	width: 97.8%;
-	padding-left: 10px;
+	width: 95%;
+	padding-left: 20px;
 	margin-top: 8px;
 }
 
 .box .iconos{
 	text-align: center;
-	color:#BEF9FB;
+	color:#0881DE;
 	padding-bottom: 20px;
 }
 
@@ -106,3 +128,8 @@
 .box .text p{
 	padding-bottom: 20px;
 }
+
+font-family: 'Prompt', sans-serif;
+font-family: 'Baloo Paaji', cursive;
+
+/* termina kelly*/
