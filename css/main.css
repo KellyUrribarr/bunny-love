@@ -1,0 +1,108 @@
+/*kelly*/
+.box{
+	background-color: #0881DE;
+}
+
+.box .sect-uno{
+	background-color:#BEF9FB;
+	padding-bottom: 20px;
+}
+
+.box img{
+	width: 100%;
+}
+
+.box h4, p{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.box iframe{
+	width: 100%;
+}
+
+.box .box-gris{
+	background-color:#BEF9FB;
+	margin-left: 2%;
+}
+
+.box input{
+	padding: 15px 30px;
+	margin: 5%;
+	border-radius: 5px;
+	border:none;
+}
+
+.box .box-foto img{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-top: 8px;
+	margin-bottom: 26px;
+}
+
+.box .text{
+	width: 97.8%;
+	margin-left: 10px;
+	background-color:#BEF9FB;
+}
+
+.box .text h4{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-top: 8px;
+}
+
+.box .text p{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-top: 8px;
+}
+
+.box .iconos{
+	text-align: center;
+	color:#BEF9FB;
+	padding-bottom: 20px;
+}
+
+.box .fa-facebook-square{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+}
+
+.box .fa-instagram{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+	margin-left:20px;
+}
+
+.box .fa-twitter{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+	margin-left:20px;
+}
+
+.box .fa-youtube{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+	margin-left:20px;
+}
+
+.box .box-foto-uno img{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-bottom:30px;
+}
+
+.box .text h4{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-top: 8px;
+}
+
+.box .text p{
+	padding-bottom: 20px;
+}
