@@ -1,3 +1,41 @@
+/*jessica*/
+.conejito{
+	background-color: #CBF2F7;
+}
+.bunnies-blanco {
+	background-color: white;
+}
+
+.bunny-size {
+	width: 100%;
+}
+.caja-bunnies {
+	background-color: #3e90b5;
+	width: 90%;
+	margin: 2%;
+	margin-left: 5%;
+}
+h6{
+	font-size: 18px;
+	font-family:'Baloo Paaji';
+	text-align: center;
+	color: 	#ee5f35;
+	padding-left: 10%;
+	padding-top: 10%;
+	margin-top: 0%;
+}
+p{
+	font-size: 16px;
+	font-family:'Prompt';
+	text-align: center;
+	color: white;
+	margin-top:0% auto;
+	padding-left: 10px;
+	padding-bottom: 10%;
+}
+.bunny-3 {
+	padding-bottom: 29%;
+}
 /* empieza kelly*/
 .box{
 	background-color: #0881DE;
